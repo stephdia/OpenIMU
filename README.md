@@ -1,2 +1,2 @@
 # OpenIMU
-Projet OpenIMU, logiciel de présentation et de traitement de données
+Projet OpenIMU, logiciel de présentation et de traitement de données.
